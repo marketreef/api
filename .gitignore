@@ -1,0 +1,9 @@
+*.pyc
+*~
+?#*#^
+venv
+build
+*.coverage
+staticfiles/*
+.env
+*.dump
